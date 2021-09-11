@@ -1,0 +1,450 @@
+﻿  J_Ins.cpp
+cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(290,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(300,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(318,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(320,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(321,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(322,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(323,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(357,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(402,21): warning C4101: “k”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(566,21): warning C4101: “k”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(732,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(750,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(750,29): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(759,8): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(815,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(816,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(843,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(850,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(905,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(929,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1009,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1013,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1023,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1027,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1031,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1035,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1039,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1043,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1087,7): warning C4101: “tempfuny”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1086,7): warning C4101: “tempfunx”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1108,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1110,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1111,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1112,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1113,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1114,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1117,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1118,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1172,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1178,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1191,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1195,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1106,15): warning C4101: “list1”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1107,15): warning C4101: “list2”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1257,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1258,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1259,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1260,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1263,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1264,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1318,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1324,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1337,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1341,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1255,15): warning C4101: “list1”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1256,15): warning C4101: “list2”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1401,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1402,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1403,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1404,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1407,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1408,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1462,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1468,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1481,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1485,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1399,15): warning C4101: “list1”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1400,15): warning C4101: “list2”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1545,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1546,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1547,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1548,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1551,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1552,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1606,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1612,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1625,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1629,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1543,15): warning C4101: “list1”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1544,15): warning C4101: “list2”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1689,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1690,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1691,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1692,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1695,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1696,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1750,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1756,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1769,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1773,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1687,15): warning C4101: “list1”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1688,15): warning C4101: “list2”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1851,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1852,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1853,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1860,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1873,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(1874,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2067,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2072,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2078,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2082,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2089,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2098,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2117,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2123,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2142,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2147,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2151,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2157,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2161,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2165,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2172,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2178,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2226,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2227,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2228,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2235,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2248,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2249,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2500,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2519,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2525,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2544,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2549,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2553,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2559,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2563,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2567,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2574,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2580,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2595,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2598,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2603,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2607,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2614,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2623,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2627,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2631,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2634,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2641,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2651,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2654,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2695,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2696,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2697,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2704,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2723,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2724,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2765,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2995,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(2996,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3000,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3001,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3005,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3009,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3013,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3066,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3071,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3075,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3081,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3085,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3089,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3096,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3102,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3117,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3120,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3125,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3129,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3136,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3147,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3150,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3170,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3168,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3189,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3193,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3229,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3230,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3231,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3238,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3256,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3280,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3475,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3476,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3480,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3481,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3485,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3489,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3493,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3546,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3551,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3555,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3561,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3565,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3569,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3576,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3582,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3597,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3600,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3605,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3609,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3616,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3625,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3629,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3633,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3636,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3643,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3679,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3683,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3687,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3691,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3695,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3699,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3708,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3709,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3713,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3744,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3745,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3746,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3753,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3821,32): warning C4101: “vnew”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3915,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3918,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3922,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3926,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3958,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3959,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3960,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3967,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3978,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(3985,32): warning C4101: “vnew”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(4106,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(4112,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(4103,8): warning C4101: “pt”: 未引用的局部变量
+C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\J_Ins.cpp(4138): warning C4715: “M_analysisR5”: 不是所有的控件路径都返回值
+  Jarvis_Inspection.vcxproj -> C:\Users\71900\Desktop\JarvisFinal\Jarvis_Inspection\Debug\Jarvis_Inspection.exe
